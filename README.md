@@ -2,13 +2,13 @@
 Image Processing With Convolutional Neural Network (CNN)
 
 
-open cnn.ipynb in google colab 
+1- open cnn.ipynb in google colab 
 
-upload your dataset with subfolders with image category name
+2- upload your dataset with subfolders with image category name and images in each one in MyDataset directory
 
-uplaod your test dataset to predict at the end
+3- uplaod your test dataset to predict at the end in MyTestDataset directory
 
-uplaod your model with h5 format if exist
+4- uplaod your model with h5 format if exist in MyModel directory
 
-
+----------------
 run cells one by one and enjoy :)
