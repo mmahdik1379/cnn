@@ -1,7 +1,7 @@
 # cnn
 Image Processing With Convolutional Neural Network (CNN)
 
-
+----------------
 1- open cnn.ipynb in google colab 
 
 2- upload your dataset with subfolders with image category name and images in each one in MyDataset directory
